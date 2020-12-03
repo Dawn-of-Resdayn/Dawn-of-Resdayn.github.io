@@ -2,7 +2,6 @@ module.exports = {
   base: '/',
   title: 'Dawn of Resdayn',
   description: 'A TES3MP serious RP server.',
-  theme: 'dark-new',
 
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
