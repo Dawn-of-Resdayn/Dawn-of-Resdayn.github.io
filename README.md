@@ -6,5 +6,3 @@ actionText: Getting Started →
 actionLink: /project/intro.md
 footer: (c) Dawn of Resdayn
 ---
-
-<ToggleDarkMode/>
