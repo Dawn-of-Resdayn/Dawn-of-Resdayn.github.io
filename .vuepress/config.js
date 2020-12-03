@@ -3,6 +3,21 @@ module.exports = {
   title: 'Dawn of Resdayn',
   description: 'A TES3MP serious RP server.',
 
+  plugins: [
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10
+    }],
+    ['vuepress-plugin-container', {
+      type: 'warning',
+    }],
+    ['vuepress-plugin-container', {
+      type: 'tip',
+    }],
+    ['vuepress-plugin-container', {
+      type: 'danger',
+    }],
+  ],
+
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
