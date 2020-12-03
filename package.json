@@ -9,5 +9,5 @@
     "watch": "vuepress dev"
   },
   "devDependencies": {
-  },
+  }
 }
