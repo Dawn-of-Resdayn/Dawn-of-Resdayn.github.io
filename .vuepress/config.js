@@ -2,6 +2,7 @@ module.exports = {
   base: '/',
   title: 'Dawn of Resdayn',
   description: 'A TES3MP serious RP server.',
+  theme: 'dark-new',
 
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -10,7 +11,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: 'Dawn-of-Resdayn/public-scripts',
+    repo: 'https://github.com/Dawn-of-Resdayn',
     docsRepo: 'Dawn-of-Resdayn/Dawn-of-Resdayn.github.io',
     editLinks: true,
     editLinkText: 'Help us improve this page.',
