@@ -8,5 +8,7 @@
     "build": "vuepress build",
     "watch": "vuepress dev"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "vuepress-theme-dark-new": "^0.1.2"
+  }
 }
