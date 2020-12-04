@@ -38,7 +38,7 @@ TR_Mainland.esm
 TR_Factions.esp
 TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
-dawn_of_resdayn_v0.71.ESP
+dawn_of_resdayn_v0.72.ESP
 ```
 7. Configure your fallback archives so that you can connect successfully:\
 Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW``, and open openmw.cfg in notepad or another text file editor.\
