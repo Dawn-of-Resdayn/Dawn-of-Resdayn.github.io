@@ -16,7 +16,7 @@ Toggle Global (OOC) ON/OFF from admin accounts by Wishbone.
 Wishbone's TES3MP Script Loader (based off his work on Garry's Mod.)
 MOTD system by David-AW.
 Vote Kicking by David-AW.
-Rolls (1d100) by David-AW.
+Roll Combat system by Wishbone.
 starterItems by David-AW.
 kanaFurniture by Atkana.
 kanaHousing by Atkana.
