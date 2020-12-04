@@ -1,7 +1,7 @@
 # Installing
 If you have found this link, this is the entire modlist order that you need for Dawn of Resdayn, in order to play. You can visit our Discord with the link above called "Discord" or visit our forums.
 
-### Download Links
+## Download Links
 
 * [TES3MP 0.7.0 Alpha](https://github.com/TES3MP/openmw-tes3mp/releases/tag/0.7.0-alpha)  
 * [Tamriel Rebuilt v20.02](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
@@ -11,7 +11,7 @@ If you have found this link, this is the entire modlist order that you need for 
 * [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
 
 
-### Server Installation Guide
+## Server Installation Guide
 
 1. Configure TES3MP by running OpenMW-Wizard, and pointing it at your data files. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
@@ -56,7 +56,7 @@ fallback-archive=pt_data.bsa
 
 Good luck, and remember to read the rules! As it is a serious roleplay server!
 
-### FAQ
+## FAQ
 
 **Q:** I get terrible lag and framerate drop in exterior cells/outside!\
 **A:** OpenMW's physics engine can bottleneck your frames, especially in TES3MP. It can be limited to by setting the environmental variable "OPENMW_PHYSICS_FPS" between 40-20.
@@ -65,5 +65,5 @@ On Windows 10, this can be set by an administrator, with some annoying maneuveri
 
 On Linux/UNIX-likes, this can be set temporarily by putting OPENMW_PHYSICS_FPS=40 after ./tes3mp or ./openmw-launcher while executing the binary.
 
-### Old Links
+## Old Links
 [Dawn of Resdayn 0.71](https://drive.google.com/file/d/1EM81mOMWFPZUGPi5gN1FBqUpf3swOlTh/view?usp=sharing)
