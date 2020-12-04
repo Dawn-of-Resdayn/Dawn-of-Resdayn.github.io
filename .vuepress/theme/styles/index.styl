@@ -1,10 +1,15 @@
 @require './palette.styl'
 
+:root
+  --mwRed $mwRed
+  --textColor $textColor
+  --darkColor $darkColor
+
 html
 body
 .sidebar
-  color $textColor
-  background-color $darkColor
+  color var(--textColor)
+  background-color var(--darkColor)
 
 .navbar
-  background-color $mwRed
+  background-color var(--mwRed)
