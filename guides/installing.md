@@ -8,7 +8,11 @@ If you have found this link, this is the entire modlist order that you need for 
 * [Tamriel_Data v7.1](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
 * [Skyrim HOTN v20.01](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
 * [Cyrodiil_Main v0.2](https://www.nexusmods.com/morrowind/mods/44922?tab=files)
-* [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
+* [Dawn of Resdayn 0.72](https://drive.google.com/file/d/14mfgygjlY8WhGI3rtYZyOeo8_FaYSRJF/view?usp=sharing)
+
+## FOR those who already have 0.61
+
+* [Dawn of Resdayn 0.72 Update File](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing)
 
 
 ## Server Installation Guide
@@ -34,7 +38,7 @@ TR_Mainland.esm
 TR_Factions.esp
 TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
-dawn_of_resdayn_v0.71.ESP
+dawn_of_resdayn_v0.72.ESP
 ```
 7. Configure your fallback archives so that you can connect successfully:\
 Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW``, and open openmw.cfg in notepad or another text file editor.\
@@ -66,4 +70,4 @@ On Windows 10, this can be set by an administrator, with some annoying maneuveri
 On Linux/UNIX-likes, this can be set temporarily by putting OPENMW_PHYSICS_FPS=40 after ./tes3mp or ./openmw-launcher while executing the binary.
 
 ## Old Links
-[Dawn of Resdayn 0.71](https://drive.google.com/file/d/1EM81mOMWFPZUGPi5gN1FBqUpf3swOlTh/view?usp=sharing)
+* [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
