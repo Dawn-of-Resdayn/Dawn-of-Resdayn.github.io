@@ -1,13 +1,11 @@
 # Credits
-
 Here you can find proper credit to script and mod authors here at Dawn of Resdayn.
 
 IF any credit is missing, PLEASE DO inform us by creating a DM ticket- at our [Discord](https://discord.gg/XG8r27R) !!!
 
 We take this VERY seriously! If your work is involved here at Dawn of Resdayn, inform us so we can make proper arrangements for removal, edits, or citing of proper credit !!!
 
-Scripts
-======
+## Scripts
 These are a list of open-source scripts that are in server.\
 ``Active`` Scripts that are loaded and used.\
 ``In-Active`` Scripts that are not loaded and not used, but still in the server.
@@ -24,8 +22,7 @@ These are a list of open-source scripts that are in server.\
 * playerUtils - ``Created by SaintWish - https://github.com/SaintWish`` - ``Active``
 * rpStatus - ``Created by SaintWish - https://github.com/SaintWish`` - ``Active``
 
-Modified
-======
+## Modified
 Scripts that were modified by us for DoR.
 * rpchat
   * ``Created by Created by Nac - https://github.com/nalal``
@@ -37,4 +34,5 @@ Scripts that were modified by us for DoR.
   * ``Created by Hotaru - https://github.com/HotaruBlaze/TES3MP_DiscordRelay``
   * ``Redid config code to remove dependency, added hook to notify if player leaves/joins server, and cleaned up the code a bit for better readability``
 
+## Released Scripts
 You can find our public scripts repo, [here](https://github.com/Dawn-of-Resdayn/public-scripts).
