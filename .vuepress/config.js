@@ -53,6 +53,7 @@ module.exports = {
           children: [
             '/project/intro.md',
             '/project/about.md',
+            '/project/credits.md',
           ]
         },
         {
