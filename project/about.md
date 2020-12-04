@@ -1,9 +1,20 @@
 # About
 
-## Staff Members
+## Server Staff
 | Name | Discord Name | Role |
 | ---- | ------------ | ---- |
+| Gryphoth | `Gryphoth#2366` | DM Team (Head) |
 | Dystopia | `2cwldys#4181` | DM Team (Head) |
-| Gryphoth | `Gryphoth#2366` | DM Team (Manager) |
-| Wishbone | `wishbone#5215` | Dev Wizard & System Administrator |
-| Aarsyn | `Aarsyn#4730` | Support Team |
+| Wishbone | `wishbone#5215` | Hosting & Technical Support |
+| Aarsyn | `Aarsyn#4730` | Support |
+
+## Development Staff
+| Name | Discord Name | Role |
+| ---- | ------------ | ---- |
+| Gryphoth | `Gryphoth#2366` | Lead ESP Creator |
+| Wishbone | `wishbone#5215` | Coder & Dev Ops |
+
+<!-- ## Ex-Staff
+| Name | Discord Name | Role |
+| ---- | ------------ | ---- |
+| Placeholder | `Placeholder` | Job | -->
