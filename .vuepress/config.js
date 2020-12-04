@@ -54,16 +54,14 @@ module.exports = {
             '/project/intro.md',
             '/project/about.md',
           ]
-        }
-      ],
-      '/guides/': [
+        },
         {
-          title: 'Installing',
+          title: 'Guides',
           collapsable: false,
           children: [
             '/guides/installing.md',
           ]
-        }
+        },
       ],
     }
   },
