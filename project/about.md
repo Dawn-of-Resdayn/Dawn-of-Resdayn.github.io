@@ -11,8 +11,8 @@
 ## Development Staff
 | Name | Discord Name | Role |
 | ---- | ------------ | ---- |
-| Gryphoth | `Gryphoth#2366` | Lead ESP Creator |
 | Alkalimetal | `Alkalimetal#8844` | ESP Creator |
+| Gryphoth | `Gryphoth#2366` | Lead ESP Creator |
 | Wishbone | `wishbone#5215` | Coder & Dev Ops |
 
 <!-- ## Ex-Staff
