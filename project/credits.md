@@ -6,8 +6,6 @@ IF any credit is missing, PLEASE DO inform us by creating a DM ticket- at our [D
 
 We take this VERY seriously! If your work is involved here at Dawn of Resdayn, inform us so we can make proper arrangements for removal, edits, or citing of proper credit !!!
 
-You can find our public scripts repo, [here](https://github.com/Dawn-of-Resdayn/public-scripts).
-
 ```
 Book, Scroll, and Note Writing by Wishbone. (requires ink well, and quill.)
 Announce script by Texafornian.
@@ -34,3 +32,5 @@ FossMail by TeamFOSS.
 DiscordRelay by Flutters, edited by Wishbone.
 objectBlacklist by Wishbone.
 ```
+
+You can find our public scripts repo, [here](https://github.com/Dawn-of-Resdayn/public-scripts).
