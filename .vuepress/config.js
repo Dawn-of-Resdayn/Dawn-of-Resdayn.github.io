@@ -37,7 +37,7 @@ module.exports = {
         link: '/project/intro.md',
       },
       {
-        text: 'Get Help',
+        text: 'Discord',
         link: 'https://discord.gg/XG8r27R'
       },
       {
