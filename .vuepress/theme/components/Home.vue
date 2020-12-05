@@ -10,12 +10,12 @@
         :alt="data.heroAlt || 'hero'"
       >
 
-      <h1
+      <!-- <h1
         v-if="data.heroText !== null"
         id="main-title"
       >
         {{ data.heroText || $title || 'Hello' }}
-      </h1>
+      </h1> -->
 
       <p
         v-if="data.tagline !== null"
