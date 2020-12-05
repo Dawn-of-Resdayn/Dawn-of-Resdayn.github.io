@@ -45,5 +45,6 @@ Features:
   * Geth Port Authority added.
   * Major Geth Shrine added.
   * More playable races added, dremora, etc etc.
+  * Indoril Canton added to Vivec.
 
 [Gallery](https://imgur.com/gallery/bKXAHm0)
