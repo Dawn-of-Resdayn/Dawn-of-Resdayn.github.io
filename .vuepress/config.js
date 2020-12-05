@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   title: 'Dawn of Resdayn',
-  description: 'A ES III Morrowind serious RP server.',
+  description: 'A serious ES III Morrowind RP Server',
 
   plugins: [
     ['@vuepress/search', {
