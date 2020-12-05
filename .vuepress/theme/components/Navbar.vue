@@ -130,12 +130,16 @@ $navbar-horizontal-padding = 1.5rem
     border-radius .25rem
     background-color $bgColor
     border-color $borderColor
+    &:focus
+      border-color $accentColor
   .suggestions
     background-color $bgColor
     border-color darken($borderColor, 35%)
   .suggesion
     a
       color $textColor
+    &:focus
+      background-color darken($bgColor, 10%)
     &.focused
       background-color darken($bgColor, 10%)
       a
