@@ -124,6 +124,8 @@ $navbar-horizontal-padding = 1.5rem
     .search-box
       flex: 0 0 auto
       vertical-align top
+      background-color $bgColor
+      border-radius .25rem
 
 @media (max-width: $MQMobile)
   .navbar
