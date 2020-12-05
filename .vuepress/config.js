@@ -57,6 +57,7 @@ module.exports = {
             '/project/intro.md',
             '/project/about.md',
             '/project/credits.md',
+            '/project/updates.md',
           ]
         },
         {
