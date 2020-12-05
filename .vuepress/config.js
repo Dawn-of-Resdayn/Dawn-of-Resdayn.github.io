@@ -30,7 +30,7 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Help us improve this page.',
     lastUpdated: true,
-    //logo: '/pterodactyl-flat.png',
+    logo: '/icon.png',
     nav: [
       {
         text: 'Documentation',
