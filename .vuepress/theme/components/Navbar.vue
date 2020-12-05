@@ -114,7 +114,7 @@ $navbar-horizontal-padding = 1.5rem
   .links
     padding-left 1.5rem
     box-sizing border-box
-    background-color $bgColor
+    background-color $navBgColor
     white-space nowrap
     font-size 0.9rem
     position absolute
@@ -130,9 +130,16 @@ $navbar-horizontal-padding = 1.5rem
     border-radius .25rem
     background-color $bgColor
     border-color $borderColor
-  .suggestion
+  .suggestions
     background-color $bgColor
-    border-color $borderColor
+    border-color darken($borderColor, 35%)
+  .suggesion
+    a
+      color $textColor
+    &.focused
+      background-color darker($bgColor, 10%)
+      a
+        color $accentColor
 
 @media (max-width: $MQMobile)
   .navbar
