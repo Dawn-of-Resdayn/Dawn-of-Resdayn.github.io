@@ -158,7 +158,7 @@ export default {
       padding 5px 7px 5px 5px !important
     .algolia-docsearch-suggestion--subcategory-column
       padding 0 !important
-      background white !important
+      background $bgColor !important
     .algolia-docsearch-suggestion--subcategory-column-text:after
       content " > "
       font-size 10px
