@@ -1,7 +1,14 @@
 # Installing
-If you have found this link, this is the entire modlist order that you need for Dawn of Resdayn, in order to play. You can visit our Discord with the link above called "Discord" or visit our forums.
+::: warning
+You must install all of the stuff in the Mod List in order to play on the server!
+:::
+This guide was created under the assumption that you're running Windows, but other OSes that is supported by Morrowind should be a similar install. If you require extra help with the install then feel free to create a ticket on our [Discord](https://discord.gg/XG8r27R) and we'll help you when we can.
 
-## Download Links
+## Mod List
+
+::: tip
+If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
+:::
 
 * [TES3MP 0.7.0 Alpha](https://github.com/TES3MP/openmw-tes3mp/releases/tag/0.7.0-alpha)  
 * [Tamriel Rebuilt v20.02](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
@@ -10,24 +17,19 @@ If you have found this link, this is the entire modlist order that you need for 
 * [Cyrodiil_Main v0.2](https://www.nexusmods.com/morrowind/mods/44922?tab=files)
 * [Dawn of Resdayn 0.72](https://drive.google.com/file/d/14mfgygjlY8WhGI3rtYZyOeo8_FaYSRJF/view?usp=sharing)
 
-## FOR those who already have 0.61
+## Step by Step
 
-* [Dawn of Resdayn 0.72 Update File](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing)
+1. Configure TES3MP by running the OpenMW-Wizard ``openmw-launcher``, and pointing it at your data files. Your data files will be where your game is installed. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
+3. Download the mods from the modload download order above.
 
-## Server Installation Guide
+4. Extract Tamriel Rebuilt and Tamriel Data into their respective directories, these have some overrides as well.
 
-1. Configure TES3MP by running OpenMW-Wizard, and pointing it at your data files. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
+5. Extract Province Cyrodiil, and Skyrim Home of the Nords into their respective directories, these have some overrides as well.
 
-2. Download the mods from the modload download order above.
+6. Extract the contents of the Dawn of Resdayn zip into your Morrowind data files folder
 
-3. Extract Tamriel Rebuilt and Tamriel Data into their respective directories, these have some overrides as well.
-
-4. Extract Province Cyrodiil, and Skyrim Home of the Nords into their respective directories, these have some overrides as well.
-
-5. Extract the contents of the Dawn of Resdayn zip into your Morrowind data files folder
-
-6. Then run OpenMW-Launcher, and configure your modload order to the following-
+7. Then run OpenMW-Launcher, and configure your modload order to the following-
 ```
 Tribunal.esm
 Bloodmoon.esm
@@ -40,7 +42,7 @@ TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
 dawn_of_resdayn_v0.72.ESP
 ```
-7. Configure your fallback archives so that you can connect successfully:\
+8. Configure your fallback archives so that you can connect successfully:\
 Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW``, and open openmw.cfg in notepad or another text file editor.\
 Search for the following inside of ``openmw.cfg``:
 ```
@@ -56,18 +58,9 @@ fallback-archive=Bloodmoon.bsa
 fallback-archive=TR_Data.bsa
 fallback-archive=pt_data.bsa
 ```
-8. Once you are through with all of these, you should be able to open ``TES3MP-Browser.exe`` and join Dawn of Resdayn!
+9. Once you are through with all of these, you should be able to open ``TES3MP-Browser.exe`` and join Dawn of Resdayn!
 
 Good luck, and remember to read the rules! As it is a serious roleplay server!
-
-## FAQ
-
-**Q:** I get terrible lag and framerate drop in exterior cells/outside!\
-**A:** OpenMW's physics engine can bottleneck your frames, especially in TES3MP. It can be limited to by setting the environmental variable "OPENMW_PHYSICS_FPS" between 40-20.
-
-On Windows 10, this can be set by an administrator, with some annoying maneuvering. Right click the very bottom-left corner of your screen, and click System, then Advanced System Settings. Environment variables. Choose New, paste OPENMW_PHYSICS_FPS as the variable name, and set its value between 40 and 20.
-
-On Linux/UNIX-likes, this can be set temporarily by putting OPENMW_PHYSICS_FPS=40 after ./tes3mp or ./openmw-launcher while executing the binary.
 
 ## Old Links
 * [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
