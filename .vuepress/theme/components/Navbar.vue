@@ -137,7 +137,7 @@ $navbar-horizontal-padding = 1.5rem
     a
       color $textColor
     &.focused
-      background-color darker($bgColor, 10%)
+      background-color darken($bgColor, 10%)
       a
         color $accentColor
 
