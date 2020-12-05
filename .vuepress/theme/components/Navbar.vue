@@ -124,8 +124,15 @@ $navbar-horizontal-padding = 1.5rem
     .search-box
       flex: 0 0 auto
       vertical-align top
-      background-color $bgColor
-      border-radius .25rem
+
+.search-box
+  input
+    border-radius .25rem
+    background-color $bgColor
+    border-color $borderColor
+  .suggestion
+    background-color $bgColor
+    border-color $borderColor
 
 @media (max-width: $MQMobile)
   .navbar
