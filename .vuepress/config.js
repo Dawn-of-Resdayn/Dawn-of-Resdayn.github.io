@@ -65,6 +65,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/guides/installing.md',
+            '/guides/kudos.md',
           ]
         },
       ],
