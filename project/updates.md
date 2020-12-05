@@ -1,4 +1,4 @@
-# Changelog
+# Updates
 This is where you can see the latest change log for the live server for scripts and ESP updates. We use Semantic Versioning 2.0.0 (https://semver.org/). The dating standard we use is ``yyyy/mm/dd``
 
 ### 0.7.1 - 2020/12/04

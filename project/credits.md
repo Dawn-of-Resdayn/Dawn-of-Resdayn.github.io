@@ -21,6 +21,7 @@ These are a list of open-source scripts that are in server.\
 * rpRolls - ``Created by David-AW - https://github.com/David-AW`` - ``Active``
 * playerUtils - ``Created by SaintWish - https://github.com/SaintWish`` - ``Active``
 * rpStatus - ``Created by SaintWish - https://github.com/SaintWish`` - ``Active``
+* AnimMenu - ``Created by Kyoufu and modified by Vidi_Aquam`` - ``Active``
 
 ## Modified
 Scripts that were modified by us for DoR.
