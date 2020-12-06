@@ -5,6 +5,11 @@
 @require './wrapper'
 @require './toc'
 
+@font-face
+  font-family MagicCards
+  font-style normal
+  src url(/font/MagicCardsNormal.ttf)
+
 html, body
   padding 0
   margin 0
@@ -131,9 +136,11 @@ h1, h2, h3, h4, h5, h6
     opacity: 1
 
 h1
+  font-family MagicCards
   font-size 2.2rem
 
 h2
+  font-family MagicCards
   font-size 1.65rem
   padding-bottom .3rem
   border-bottom 1px solid $borderColor
