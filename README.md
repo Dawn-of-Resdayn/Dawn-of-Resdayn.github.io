@@ -10,5 +10,5 @@ features:
   details: "We use custom scripts and modified ESPs to help tailor, provide tools, and enrich your roleplaying experience; that are actively worked on to be perfected."
 - title: Long-term Storytelling
   details: Players can come together and tell their stories, dependent of one another, to conform to a larger, more custom and persistent story that effects everyone.
-footer: © Dawn of Resdayn, created by SaintWish
+footer: © Dawn of Resdayn, website created by SaintWish
 ---
