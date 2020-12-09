@@ -46,6 +46,10 @@ module.exports = {
       {
         text: 'Forums',
         link: 'https://resdayn.boards.net/'
+      },
+      {
+        text: 'TES3MP',
+        link: 'https://tes3mp.com'
       }
     ],
     sidebar: {
