@@ -17,3 +17,9 @@ These are a list of commands added by scripts available to only staff members.
 ## RP Chat
 * ``/rpchat toggleooc <boolean>`` - Turn on/off OOC chat for normal players.
 * ``/rpchat color <player id:number> <color:hex>`` - Set the color for a player's RP chat name.
+
+## RP Rolls
+* ``/resetskill <player id:number>`` - Reset a player's skill point allocation.
+* ``/addpoints <player id:number> <amount:number>`` - Give a player more points that they can allocate.
+* ``/setpoints <player id:number> <amount:number>`` - Set a player's max points they can allocate, this will not reset a player's points allocation!
+* ``/setrpr <player id:number> <amount:number>`` - Set a player's RPR; RPR acts as a bonus in rolls separate from skill bonus.
