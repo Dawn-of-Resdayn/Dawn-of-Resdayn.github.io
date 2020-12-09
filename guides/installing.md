@@ -1,11 +1,7 @@
 # Installing
-::: warning
-You must install all of the stuff in the Mod List in order to play on the server!
-:::
 This guide was created under the assumption that you're running Windows, but other OSes that is supported by Morrowind should be a similar install. If you require extra help with the install then feel free to create a ticket on our [Discord](https://discord.gg/XG8r27R) and we'll help you when we can.
 
 ## Mod List
-
 ::: tip
 If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
 :::
@@ -18,8 +14,11 @@ If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.g
 * [Dawn of Resdayn 0.72](https://drive.google.com/file/d/14mfgygjlY8WhGI3rtYZyOeo8_FaYSRJF/view?usp=sharing)
 
 ## Step by Step
+::: warning
+Before continuing you *need* to install TES3MP. You can follow this [guide](https://github.com/TES3MP/openmw-tes3mp/wiki/Quickstart-guide) for install TES3MP.
+:::
 
-1. Configure TES3MP by running the OpenMW-Wizard ``openmw-launcher``, and pointing it at your data files. Your data files will be where your game is installed. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
+1. Configure TES3MP by running the OpenMW-Wizard ``openmw-wizard``, and pointing it at your data files. Your data files will be where your game is installed. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
 3. Download the mods from the modload download order above.
 
