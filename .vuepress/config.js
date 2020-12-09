@@ -52,7 +52,7 @@ module.exports = {
       '/': [
         {
           title: 'Information',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/project/intro.md',
             '/project/about.md',
@@ -62,11 +62,18 @@ module.exports = {
         },
         {
           title: 'Guides',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/guides/installing.md',
             '/guides/faq.md',
             '/guides/kudos.md',
+          ]
+        },
+        {
+          title: 'In-Game',
+          collapsable: true,
+          children: [
+            '/ingame/commands.md',
           ]
         },
       ],
