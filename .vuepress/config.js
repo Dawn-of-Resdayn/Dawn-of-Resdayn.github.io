@@ -77,6 +77,15 @@ module.exports = {
           ]
         },
       ],
+      '/staff/': [
+        {
+          title: 'In-Game',
+          collapsable: true,
+          children: [
+            '/staff/ingame/commands.md',
+          ]
+        },
+      ],
     }
   },
 }
