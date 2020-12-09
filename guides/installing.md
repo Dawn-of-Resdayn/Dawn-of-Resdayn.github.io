@@ -15,7 +15,7 @@ If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.g
 
 ## Step by Step
 ::: warning
-Before continuing you *need* to install TES3MP. You can follow this [guide](https://github.com/TES3MP/openmw-tes3mp/wiki/Quickstart-guide) for install TES3MP.
+Before continuing you **need** to install TES3MP. You can follow this [guide](https://github.com/TES3MP/openmw-tes3mp/wiki/Quickstart-guide) for installing TES3MP.
 :::
 
 1. Configure TES3MP by running the OpenMW-Wizard ``openmw-wizard``, and pointing it at your data files. Your data files will be where your game is installed. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
