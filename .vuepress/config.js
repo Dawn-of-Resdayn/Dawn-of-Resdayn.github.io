@@ -49,6 +49,22 @@ module.exports = {
       }
     ],
     sidebar: {
+      '/staff/': [
+        {
+          title: 'Information',
+          collapsable: true,
+          children: [
+            '/staff/info/info.md',
+          ]
+        },
+        {
+          title: 'In-Game',
+          collapsable: true,
+          children: [
+            '/staff/ingame/commands.md',
+          ]
+        },
+      ],
       '/': [
         {
           title: 'Information',
@@ -74,15 +90,6 @@ module.exports = {
           collapsable: true,
           children: [
             '/ingame/commands.md',
-          ]
-        },
-      ],
-      '/staff/': [
-        {
-          title: 'In-Game',
-          collapsable: true,
-          children: [
-            '/staff/ingame/commands.md',
           ]
         },
       ],
