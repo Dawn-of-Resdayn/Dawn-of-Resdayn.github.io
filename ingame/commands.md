@@ -33,7 +33,7 @@ These are a list of commands added by scripts that are available for the player 
 
 ## RP Rolls
 * ``/roll <skill/attr/d20> <skill/attribute:optional>`` - Roll that specific dice.
-* ``/skills`` - Open a menu that shows you all of your skills and their levels.
+* ``/skills <player id:integer:optional>`` - Open a menu that shows you all of your or someone else's skills and their levels.
 * ``/levelskill <skill:string> <points:number>`` - Level up that specific skill with your allocated points.
 * ``/rpr`` - View your current RPR amount.
 * ``/level`` - View your current overall level. This is basically how tough you are, the starting level is 8.
