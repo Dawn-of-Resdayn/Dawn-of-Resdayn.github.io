@@ -95,6 +95,7 @@ module.exports = {
           children: [
             '/ingame/commands.md',
             '/ingame/rolls.md',
+            '/ingame/rollrpr.md',
           ]
         },
       ],
