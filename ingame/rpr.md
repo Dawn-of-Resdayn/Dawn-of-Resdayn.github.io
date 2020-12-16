@@ -7,8 +7,9 @@ Upon creating new characters, with your identity confirmed - DMs will adjust you
 
 There is several levels of RPR, which we'll explain here.
 
-* RPR 10 - All players start here.
-* RPR 20 - Players who are noticably interested, and appear to be experienced roleplayers; are commonly boosted to this level.
+* RPR 0 - All players start here.
+* RPR 10 - Noticed activity places the player at this level.
+* RPR 20 - Players who are noticably interested, involving themselves, and appear to be experienced roleplayers; are commonly boosted to this level.
 * RPR 30 - Players who have completed several remarkable story arcs and maintained activity on the server, with multiple kudos threads to their name.
 * RPR 40 - Players with severe dedication, playing for quite a long time and understand the realistic proportions of roleplay that we are, as DMs, attempting to achieve. They've left a lot of good work to their name. (They can refer others to becoming RPR 20 without the DM supervision)
 * RPR 50 - This RPR is reserved for characters that have earned high feats of power, such as saints, gods, etcetera.
@@ -57,7 +58,7 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 * Players cannot become nobles without perusing the nobility award. Others must acknowledge you as a liar, or too good to be true without the award.
 * Some options may not be available by using the standard, starting races- we'll help you get configured if these cases occur.
 * (**!**) Exclamation marks that follow certain awards, indicate that they require a strong application to the DM team.
-* Players with **RPR 10** cannot participate in the Epic Sacrifice program. They must first become elevated by a DM with proper RP, or by an individual with **RPR 40** to **RPR 20**.
+* Players with **RPR 0 or 10** cannot participate in the Epic Sacrifice program. They must first become elevated by a DM with proper RP, or by an individual with **RPR 40** to **RPR 20**.
 * If you wish to see more opportunities added, you may suggest- within the realm of possibility, plausible awards under respective categories with a DM ticket.
 
 **The Calculating Formula**
