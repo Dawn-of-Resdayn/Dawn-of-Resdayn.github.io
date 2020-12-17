@@ -3,6 +3,7 @@ These are a list of commands added by scripts that are available for the player 
 
 ## Miscellaneous
 * ``/stuck`` - Get unstuck, has a cooldown of 180 seconds.
+* ``/delete`` - Mark your character for deletion, this cannot be undone once you leave the server!
 * ``/hub`` - Teleport to the DoR Hub area.
 * ``/return`` - Teleport back to the location you teleported to the hub from.
 * ``/sit`` - Opens up the animation menu.
