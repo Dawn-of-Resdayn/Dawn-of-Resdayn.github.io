@@ -18,17 +18,68 @@ If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.g
 Before continuing you **need** to install TES3MP. You can follow this [guide](https://github.com/TES3MP/openmw-tes3mp/wiki/Quickstart-guide) for installing TES3MP.
 :::
 
-1. Configure TES3MP by running the OpenMW-Wizard ``openmw-wizard``, and pointing it at your data files. Your data files will be where your game is installed. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
+1. Extract Tes3mp into a folder called Tes3mp.
 
-3. Download the mods from the modload download order above.
+2. Run the ``openmw-wizard``, and point it at your Morrowind.esm, this will be in your data files folder in your morrowind installation. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
-4. Extract Tamriel Rebuilt and Tamriel Data into their respective directories, these have some overrides as well.
+3. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’ and create a folder there named “Mods" This is where you will install the mods for the server. Later we'll tell openmw how to check these folders
+   3b. Create a folder called "Dawn of Resdayn" in the "Mods" folder you created, extract the Dawn of resdayn 0.72 zip into it.
+   3c. Create a folder called "Tamriel Data" in the "Mods" folder you created, extract the contents of the Tamriel_Data (HD or vanilla) ZIP into it.
+   3e. Create a folder called "Tamriel Rebuilt" in the "Mods" folder you created, extract the contents of all of the subfolders in the Tamriel Rebuilt 7z into it.
+   3f. Create a folder called "Province Cyrodiil" in the "Mods" folder you created, extract the contents of Cyrodiil_main v.0.2 (BETA) zip into it.
+   3g. Create a folder called "SHoTN" in the "Mods" folder you created, extract the contents of Sky_main zip into it.  
 
-5. Extract Province Cyrodiil, and Skyrim Home of the Nords into their respective directories, these have some overrides as well.
+4. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’, and open ‘openmw.cfg’ in notepad or another text file editor
 
-6. Extract the contents of the Dawn of Resdayn zip into your Morrowind data files folder
+5. Search for the following inside of 'openmw.cfg'
 
-7. Then run OpenMW-Launcher, and configure your modload order to the following-
+``` 
+fallback-archive=Morrowind.bsa
+fallback-archive=Tribunal.bsa
+fallback-archive=Bloodmoon.bsa
+
+```
+
+6. Replace it with the following to allow custom archives
+
+```
+fallback-archive=Morrowind.bsa
+fallback-archive=Tribunal.bsa
+fallback-archive=Bloodmoon.bsa
+fallback-archive=TR_Data.bsa
+fallback-archive=pt_data.bsa
+
+```
+
+7. Search for the following in ‘openmw.cfg’. Your Morrowind installation path should be listed after the equals sign in quotations.
+
+``` 
+data=
+
+```
+
+8. We now have to specify the location of each of our mod files under this entry so that OpenMW can find them. Make sure each path is directly to the folder containing the .esp, textures, and meshes folders. If the path is configured to a folder that contains the "Data files" folder, it will not work.
+
+```
+Paste the following under the data= line(s), replacing 'USERNAME' with your Windows username:
+
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Data\Data Files"
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Rebuilt"
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Province Cyrodiil"
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\SHoTN"
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn"
+
+```
+if you see any entries like data=data or data-local=”?userdata?data”, remove them. These seem to break things.
+
+9. Return to your TES3MP directory, and launch ‘openmw-launcher.exe’
+
+10. At the top of the OpenMW Launcher window, press the icon for “Data Files”
+
+11. Press the drop-down box at the top, and select “Morrowind.esm”
+
+12. Check the checkboxes for the following, and drag the plugins to match the following load order:
+
 ```
 Tribunal.esm
 Bloodmoon.esm
@@ -41,25 +92,9 @@ TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
 dawn_of_resdayn_v0.72.ESP
 ```
-8. Configure your fallback archives so that you can connect successfully:\
-Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW``, and open openmw.cfg in notepad or another text file editor.\
-Search for the following inside of ``openmw.cfg``:
-```
-fallback-archive=Morrowind.bsa
-fallback-archive=Tribunal.bsa
-fallback-archive=Bloodmoon.bsa
-```
-Replace it with the following to allow OpenMW to use Tamriel Rebuilt Data:
-```
-fallback-archive=Morrowind.bsa
-fallback-archive=Tribunal.bsa
-fallback-archive=Bloodmoon.bsa
-fallback-archive=TR_Data.bsa
-fallback-archive=pt_data.bsa
-```
-9. Once you are through with all of these, you should be able to open ``TES3MP-Browser.exe`` and join Dawn of Resdayn!
 
-Good luck, and remember to read the rules! As it is a serious roleplay server!
+
+Good luck, and remember to read the rules!
 
 ## Old Links
 * [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
