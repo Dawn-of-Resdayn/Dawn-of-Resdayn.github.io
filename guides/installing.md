@@ -25,9 +25,13 @@ Before continuing you **need** to install TES3MP. You can follow this [guide](ht
 3. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’ and create a folder there named “Mods" This is where you will install the mods for the server. Later we'll tell openmw how to check these folders
    
    3b. Create a folder called "Dawn of Resdayn" in the "Mods" folder you created, extract the Dawn of resdayn 0.72 zip into it.
+   
    3c. Create a folder called "Tamriel Data" in the "Mods" folder you created, extract the contents of the Tamriel_Data (HD or vanilla) ZIP into it.
+   
    3e. Create a folder called "Tamriel Rebuilt" in the "Mods" folder you created, extract the contents of all of the subfolders in the Tamriel Rebuilt 7z into it.
+  
    3f. Create a folder called "Province Cyrodiil" in the "Mods" folder you created, extract the contents of Cyrodiil_main v.0.2 (BETA) zip into it.
+  
    3g. Create a folder called "SHoTN" in the "Mods" folder you created, extract the contents of Sky_main zip into it.  
 
 4. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’, and open ‘openmw.cfg’ in notepad or another text file editor
