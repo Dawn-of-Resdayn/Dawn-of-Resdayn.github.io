@@ -1,5 +1,8 @@
-# Commands
+# Staff Commands
 These are a list of commands added by scripts available to only staff members.
+
+## Miscellaneous
+* ``/playercollision <boolean>`` - Disable/enable player collision with other players.
 
 ## Cell Reset
 * ``/resettime <cell name:string>`` - Reset the reset timer for a specific cell.
