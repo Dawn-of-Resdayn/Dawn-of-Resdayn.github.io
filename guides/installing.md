@@ -5,7 +5,7 @@ This guide was created under the assumption that you're running Windows, but oth
 ::: tip
 If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
 :::
- 
+
 * [Tamriel Rebuilt v20.02](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
 * [Tamriel_Data v7.1](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
 * [Skyrim HOTN v20.01](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
@@ -41,7 +41,6 @@ Before continuing you **need** to install TES3MP. You can follow this [guide](ht
 fallback-archive=Morrowind.bsa
 fallback-archive=Tribunal.bsa
 fallback-archive=Bloodmoon.bsa
-
 ```
 
 6. Replace it with the following to allow custom archives
@@ -52,14 +51,12 @@ fallback-archive=Tribunal.bsa
 fallback-archive=Bloodmoon.bsa
 fallback-archive=TR_Data.bsa
 fallback-archive=pt_data.bsa
-
 ```
 
 7. Search for the following in ``openmw.cfg``. Your Morrowind installation path should be listed after the equals sign in quotations.
 
 ```
 data=
-
 ```
 
 8. We now have to specify the location of each of our mod files under this entry so that OpenMW can find them. Make sure each path is directly to the folder containing the .esp, textures, and meshes folders. If the path is configured to a folder that contains the "Data files" folder, it will not work.
@@ -72,7 +69,6 @@ data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Rebuilt"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Province Cyrodiil"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\SHoTN"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn"
-
 ```
 if you see any entries like ``data=data`` or ``data-local=”?userdata?data”``, remove them. These seem to break things.
 
@@ -96,7 +92,6 @@ TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
 dawn_of_resdayn_v0.72.ESP
 ```
-
 
 Good luck, and remember to read the rules!
 
