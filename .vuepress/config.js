@@ -72,7 +72,7 @@ module.exports = {
       '/': [
         {
           title: 'Information',
-          collapsable: true,
+          collapsable: false,
           children: [
             '/project/intro.md',
             '/project/about.md',
@@ -82,7 +82,7 @@ module.exports = {
         },
         {
           title: 'Guides',
-          collapsable: true,
+          collapsable: false,
           children: [
             '/guides/installing.md',
             '/guides/faq.md',
