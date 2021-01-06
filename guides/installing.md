@@ -5,8 +5,7 @@ This guide was created under the assumption that you're running Windows, but oth
 ::: tip
 If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
 :::
-
-* [TES3MP 0.7.0 Alpha](https://github.com/TES3MP/openmw-tes3mp/releases/tag/0.7.0-alpha)  
+ 
 * [Tamriel Rebuilt v20.02](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
 * [Tamriel_Data v7.1](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
 * [Skyrim HOTN v20.01](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
@@ -22,23 +21,23 @@ Before continuing you **need** to install TES3MP. You can follow this [guide](ht
 
 2. Run the ``openmw-wizard``, and point it at your Morrowind.esm, this will be in your data files folder in your morrowind installation. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
-3. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’ and create a folder there named “Mods" This is where you will install the mods for the server. Later we'll tell openmw how to check these folders
-   
-   3a. Create a folder called "Dawn of Resdayn" in the "Mods" folder you created, extract the Dawn of resdayn 0.72 zip into it.
-   
-   3b. Create a folder called "Tamriel Data" in the "Mods" folder you created, extract the contents of the Tamriel_Data (HD or vanilla) ZIP into it.
-   
-   3c. Create a folder called "Tamriel Rebuilt" in the "Mods" folder you created, extract the contents of all of the subfolders in the Tamriel Rebuilt 7z into it.
-  
-   3d. Create a folder called "Province Cyrodiil" in the "Mods" folder you created, extract the contents of Cyrodiil_main v.0.2 (BETA) zip into it.
-  
-   3e. Create a folder called "SHoTN" in the "Mods" folder you created, extract the contents of Sky_main zip into it.  
+3. Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW`` (USERNAME being your Window's username) and create a folder there named ``Mods`` This is where you will install the mods for the server. Later we'll tell openmw how to check these folders
 
-4. Navigate to ‘C:\Users\USERNAME\Documents\My Games\OpenMW’, and open ‘openmw.cfg’ in notepad or another text file editor
+   * Create a folder called ``Dawn of Resdayn`` in the ``Mods`` folder you created, extract the Dawn of resdayn 0.72 zip into it.
 
-5. Search for the following inside of 'openmw.cfg'
+   * Create a folder called ``Tamriel Data`` in the ``Mods`` folder you created, extract the contents of the Tamriel_Data (HD or vanilla) ZIP into it.
 
-``` 
+   * Create a folder called ``Tamriel Rebuilt`` in the ``Mods`` folder you created, extract the contents of all of the subfolders in the Tamriel Rebuilt 7z into it.
+
+   * Create a folder called ``Province Cyrodiil`` in the ``Mods`` folder you created, extract the contents of Cyrodiil_main v.0.2 (BETA) zip into it.
+
+   * Create a folder called ``SHoTN`` in the ``Mods`` folder you created, extract the contents of Sky_main zip into it.  
+
+4. Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW``, and open ``openmw.cfg`` in notepad or another text file editor
+
+5. Search for the following inside of ``openmw.cfg``
+
+```
 fallback-archive=Morrowind.bsa
 fallback-archive=Tribunal.bsa
 fallback-archive=Bloodmoon.bsa
@@ -56,9 +55,9 @@ fallback-archive=pt_data.bsa
 
 ```
 
-7. Search for the following in ‘openmw.cfg’. Your Morrowind installation path should be listed after the equals sign in quotations.
+7. Search for the following in ``openmw.cfg``. Your Morrowind installation path should be listed after the equals sign in quotations.
 
-``` 
+```
 data=
 
 ```
@@ -75,13 +74,13 @@ data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\SHoTN"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn"
 
 ```
-if you see any entries like data=data or data-local=”?userdata?data”, remove them. These seem to break things.
+if you see any entries like ``data=data`` or ``data-local=”?userdata?data”``, remove them. These seem to break things.
 
-9. Return to your TES3MP directory, and launch ‘openmw-launcher.exe’
+9. Return to your TES3MP directory, and launch ``openmw-launcher.exe``
 
-10. At the top of the OpenMW Launcher window, press the icon for “Data Files”
+10. At the top of the OpenMW Launcher window, press the icon for ``Data Files``
 
-11. Press the drop-down box at the top, and select “Morrowind.esm”
+11. Press the drop-down box at the top, and select ``Morrowind.esm``
 
 12. Check the checkboxes for the following, and drag the plugins to match the following load order:
 
