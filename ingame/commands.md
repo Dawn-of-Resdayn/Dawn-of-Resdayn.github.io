@@ -33,4 +33,7 @@ These are a list of commands added by scripts that are available for the player 
 * ``/w, /whisper <message:string>`` - whisper something in RP chat.
 
 ## RP Rolls
-* ``/roll`` - Roll a d100 dice.
+* ``/roll <skill/attr/d20> <skill/attribute:optional>`` - Roll that specific dice.
+* ``/skills <player id:integer:optional>`` - Open a menu that shows you all of your or someone else's skills and their levels.
+* ``/levelskill <skill:string> <points:number>`` - Level up that specific skill with your allocated points.
+* ``/level`` - View your current overall level. This is basically how tough you are, the starting level is 8.

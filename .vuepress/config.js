@@ -94,6 +94,8 @@ module.exports = {
           collapsable: true,
           children: [
             '/ingame/commands.md',
+            '/ingame/rolls.md',
+            '/ingame/rpr.md',
           ]
         },
       ],

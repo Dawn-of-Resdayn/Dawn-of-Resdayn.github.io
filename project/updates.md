@@ -1,6 +1,10 @@
 # Updates
 This is where you can see the latest change log for the live server for scripts and ESP updates. We use Semantic Versioning 2.0.0 (https://semver.org/). The dating standard we use is ``yyyy/mm/dd``
 
+### 0.8.0 - yyyy/mm/dd
+Features:
+  * Added new RP Rolls system. You can read more about it [here](/ingame/rolls)
+
 ### 0.7.2 - 2020/12/04
 Changes:
   * Players now start in the new hub area.
