@@ -25,7 +25,7 @@ These are a list of commands added by scripts that are available for the player 
 * ``/plyneeds`` - Check you're hunger and thirst status.
 
 ## RP Chat
-* ``/nick <nickname:string>`` - Change you're character's RP nick name.
+* ``/nick <nickname:string>`` - Change you're character's RP nick name, or active disguise.
 * ``// <message:string>`` - Type something in OOC chat.
 * ``/// <message:string>`` - Type something in local OOC chat.
 * ``/me <message:string>`` - Emote something in local chat.
