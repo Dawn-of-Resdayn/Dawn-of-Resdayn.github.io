@@ -43,12 +43,12 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 * Scamp
 
 **Greater Award** - 35%
-* Lesser Lich (bound to body and soul) **!**
+* Lesser Lich (bound to magical item, still killable) **!**
 * Ash Ghoul
 * Golden Saint **!**
 
 **Major Award** - 5%
-* Greater Lich (phylactery/magical object bound) **!**
+* Greater Lich (bound to phylactery, after phylactery is destroyed, they become killable) **!**
 * Ash Vampire **!**
 * Saint in the Tribunal **!**
 * Surviving Dwemer **!**
