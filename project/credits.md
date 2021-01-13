@@ -26,7 +26,7 @@ These are a list of open-source scripts that are in server.\
 ## Modified
 Scripts that were modified by us for DoR.
 * rpchat
-  * ``Created by Created by Nac - https://github.com/nalal``
+  * ``Created by David-AW modified by Nac - https://github.com/David-AW, https://github.com/nalal``
   * ``Added nickname feature and heavily optimized the code``
 * kanaFurniture
   * ``Created by Atkana - https://github.com/Atkana/tes3mp-scripts``
