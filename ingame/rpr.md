@@ -11,7 +11,7 @@ There is several levels of RPR, which we'll explain here.
 * RPR 1 - Noticed activity places the player at this level.
 * RPR 2 - Players who are noticably interested, involving themselves, and appear to be experienced roleplayers; are commonly boosted to this level.
 * RPR 3 - Players who have completed several remarkable story arcs and maintained activity on the server, with multiple kudos threads to their name.
-* RPR 4 - Players with severe dedication, playing for quite a long time and understand the realistic proportions of roleplay that we are, as DMs, attempting to achieve. They've left a lot of good work to their name. (They can refer others to becoming RPR 20 without the DM supervision)
+* RPR 4 - Players with severe dedication, playing for quite a long time and understand the realistic proportions of roleplay that we are, as DMs, attempting to achieve. They've left a lot of good work to their name. (They can refer others to becoming RPR 2 without the DM supervision)
 * RPR 5 - This RPR is reserved for characters that have earned high feats of power, such as saints, gods, etcetera.
 
 Players can request a DM ticket where their RP is observed for a time on a set date, so that their RPR can be adjusted accordingly. Keep in mind that their RPR may not always be adjusted when observed, and the DM can leave and stop participating anytime.
