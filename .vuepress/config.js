@@ -96,6 +96,7 @@ module.exports = {
             '/ingame/commands.md',
             '/ingame/rolls.md',
             '/ingame/rpr.md',
+            '/ingame/time.md',
           ]
         },
       ],
