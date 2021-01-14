@@ -68,7 +68,7 @@ data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Data\Data Files"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Rebuilt"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Province Cyrodiil\Data Files"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\SHoTN"
-data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn\Data Files"
+data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn"
 ```
 if you see any entries like ``data=data`` or ``data-local=”?userdata?data”``, remove them. These seem to break things.
 
