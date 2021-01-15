@@ -52,6 +52,7 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 * Ash Vampire **!**
 * Saint in the Tribunal **!**
 * Surviving Dwemer **!**
+* Turning your PC into an NPC for any next upcoming updates.
 * Submitted PrC Requests
 
 **Some Disclaimers**
