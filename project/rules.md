@@ -48,7 +48,7 @@
 
 23. No exploitation of known TES3MP bugs. Report them to David Cernat via [Github Issues](https://github.com/TES3MP/openmw-tes3mp/issues).
 
-24. Nuisances and refusal to roleplay is prohibited. Please join with the intent to roleplayer with your fellow players.
+24. Nuisances and refusal to roleplay is prohibited. Please join with the intent to roleplay with your fellow players.
 
 25. Do not impersonate server staff.
 
