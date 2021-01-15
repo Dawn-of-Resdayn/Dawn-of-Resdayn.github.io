@@ -36,7 +36,7 @@ Scripts that were modified by us for DoR.
   * ``Redid config code to remove dependency, added hook to notify if player leaves/joins server, and cleaned up the code a bit for better readability``
   
   ## Mods
-These are a list of mods that are on the server.\
+These are a list of mods that are on the server.
 * DM toolkit - ``Created by Dreamer - https://www.nexusmods.com/morrowind/mods/47944/`` 
 * Morrowind Rebirth - Tamriel Rebuilt and Gameplay Patch - ``Created by Dreamer - https://www.nexusmods.com/morrowind/mods/47361/`` 
 * The sitting mod - ``Created by Vidi_Aquam  - https://www.nexusmods.com/morrowind/mods/48782/`` 
