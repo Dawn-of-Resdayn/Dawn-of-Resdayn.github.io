@@ -57,3 +57,13 @@
 Senior Dungeon Master Staff here at Dawn of Resdayn are permitted to view player files, including their passwords and IP addresses for steady account recovery, bug fixing, and assistance. Be very wary and selective of your passwords! The account recovery process involves the user providing their IP address, and answering custom tailored security questions in regards to their account. If you wish to have your passwords changed, and account disabled or remommved: Contact DM Dystopia or DM Gryphoth.
 
 The account recovery process may involve the [use of a web-application software](https://passwordsgenerator.net/) to generate temporary passwords until we certify the validity of your account and identity.
+
+## In-game "rules" and laws
+
+It is highly suggested and recommended you go through and read our in-game imperial laws, and their subsidies here:
+
+[Imperial Law](https://resdayn.boards.net/thread/6/imperial-law)
+[House Indoril/Temple Law](https://resdayn.boards.net/thread/71/provincial-temple-laws)
+[House Dres Laws](https://resdayn.boards.net/thread/292/laws-great-house-dres) (**REVAMP NEEDED**)
+
+You may be subject to them, so it is important to know why, and how your toon may be getting in trouble; and what you can do to refute it.
