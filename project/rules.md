@@ -54,7 +54,7 @@
 
 ## Disclaimers
 
-Senior Dungeon Master Staff here at Dawn of Resdayn are permitted to view player files, including their passwords and IP addresses for steady account recovery, bug fixing, and assistance. Be very wary and selective of your passwords! The account recovery process involves the user providing their IP address, and answering custom tailored security questions in regards to their account. If you wish to have your passwords changed, and account disabled or remommved: Contact DM Dystopia or DM Gryphoth.
+Senior Dungeon Master Staff here at Dawn of Resdayn are permitted to view player files, including their passwords and IP addresses for steady account recovery, bug fixing, and assistance. Be very wary and selective of your passwords! The account recovery process involves the user providing their IP address, and answering custom tailored security questions in regards to their account. If you wish to have your passwords changed, and account disabled or removed: Contact DM Dystopia or DM Gryphoth.
 
 The account recovery process may involve the [use of a web-application software](https://passwordsgenerator.net/) to generate temporary passwords until we certify the validity of your account and identity.
 
