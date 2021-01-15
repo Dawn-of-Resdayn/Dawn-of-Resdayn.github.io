@@ -34,6 +34,21 @@ Scripts that were modified by us for DoR.
 * DiscordRelay
   * ``Created by Hotaru - https://github.com/HotaruBlaze/TES3MP_DiscordRelay``
   * ``Redid config code to remove dependency, added hook to notify if player leaves/joins server, and cleaned up the code a bit for better readability``
+  
+  ## Mods
+These are a list of mods that are on the server.\
+* DM toolkit - ``Created by Dreamer - https://www.nexusmods.com/morrowind/mods/47944/`` 
+* Morrowind Rebirth - Tamriel Rebuilt and Gameplay Patch - ``Created by Dreamer - https://www.nexusmods.com/morrowind/mods/47361/`` 
+* The sitting mod - ``Created by Vidi_Aquam  - https://www.nexusmods.com/morrowind/mods/48782/`` 
+* Tamriel Rebuilt - ``https://www.nexusmods.com/morrowind/mods/42145``
+* Province Cyrodiil - ``Created by ProjectCyrodiil - https://www.nexusmods.com/morrowind/mods/44922`` 
+* Skyrim Home of The Nords - ``Created by SHOTN Team - https://www.nexusmods.com/morrowind/mods/44921``
+* Doors of Oblivion - ``Created by Dun-ra - https://www.nexusmods.com/morrowind/mods/44398?tab=files``
+* Armored Robes - ``Created by Ivolga - https://www.nexusmods.com/morrowind/mods/43175``
+* Morrowind Rebirth - ``Created by Trancemaster_1988 - https://www.nexusmods.com/morrowind/mods/37795``
+
+
+
 
 ## Released Scripts
 You can find our public scripts repo, [here](https://github.com/Dawn-of-Resdayn/public-scripts).
