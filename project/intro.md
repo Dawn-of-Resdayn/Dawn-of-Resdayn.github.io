@@ -32,11 +32,11 @@ As of right now, players must consent to their character being killed, but there
 As per consequence of your characters actions, if you become trapped in a soul gem- that is what we like to call, "lite" or "diet" permadeath. You can be restored, otherwise you are imprisoned for a definite duration from playing your character. The same thing applies to your character being rightfully imprisoned by house retainers, ordinators, or imperial guards. You may be forced to create another player character to continue playing until you are freed in any or all circumstances in the roleplaying scenario.
 
 ## DM Policy on Erotic Roleplay and other 18+ activities
-For attention to lore and detail, these are the lands of Morrowind. Dunmer are very promiscuous. We allow a thin line of ice for tolerance in these types of scenarios for the sake of character progression and personal stories, relationships, etcetera etcetera.
+You cannot ERP if you are under 18 years of age. No exceptions. Those who are found to be doing so will be banned.
 
-Before you consider engaging intimate relations with other player characters, please inform the DMs. This is required, and if found otherwise is prohibited.
+For attention to lore and detail, these are the lands of Morrowind. Dunmer are promiscuous. We allow a thin line of ice for tolerance in these types of scenarios for the sake of character progression and personal stories, relationships, etcetera.
 
-The DMs will not open the logs, nor read or share your roleplay. However, you are both (as players) required to confirm your age and consent, or you could risk the possibility of both and all being permanently banned. Under no circumstances shall anyone be forced to partake in these roleplay scenarios.
+The DMs will not open the logs, nor read or share your roleplay. However, you are both (as players) required to keep ERP in private, and consentual between both parties. Under no circumstances shall anyone be forced to partake in these roleplay scenarios. 
 
 Creepy or predatory players that stretch OOC boundaries will and can be removed without warning and permanently banned- with possible further action.
 
