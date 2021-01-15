@@ -64,4 +64,4 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 **The Calculating Formula**
 * Players are determined their award choice by a basic formula as follows:
 
-*RPR + D100(5% vs 90%)*
+*RPR + D100(5% vs 90%) - 100*
