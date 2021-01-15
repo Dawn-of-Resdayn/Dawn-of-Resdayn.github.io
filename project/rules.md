@@ -32,7 +32,7 @@
 
 15. Respect your DMs and server staff. Be patient in regards to them.
 
-16. Do not abuse NPC merchants, such as creeper or mudcrab merchant.
+16. Do not abuse NPC merchants, such as the creeper or mudcrab merchant.
 
 17. No account sharing or dual-boxing without DM permission.
 
