@@ -11,7 +11,7 @@ Trolls and toxic nuisances will and can be removed without warning. Be responsib
 
 Installation is just steps away, by consulting our [installation](https://dor.winterfang.com/guides/installing.html) page.
 
-We suggest you read our rules and DM policies on our [discord](https://discord.gg/XG8r27R) and [forums](https://resdayn.boards.net/thread/3/discord-game-server-forum-rules).
+We suggest you read our [in-game rules](https://dor.winterfang.com/project/rules.html) and DM policies on our [discord](https://discord.gg/XG8r27R) and [forums](https://resdayn.boards.net/thread/3/discord-game-server-forum-rules).
 
 Not reading the rules is not a tolerable excuse.
 
