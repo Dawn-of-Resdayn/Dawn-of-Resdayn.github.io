@@ -65,7 +65,9 @@ The account recovery process may involve the [use of a web-application software]
 It is highly suggested and recommended you go through and read our in-game imperial laws, and their subsidies here:
 
 [Imperial Law](https://resdayn.boards.net/thread/6/imperial-law)
+
 [House Indoril/Temple Law](https://resdayn.boards.net/thread/71/provincial-temple-laws)
+
 [House Dres Laws](https://resdayn.boards.net/thread/292/laws-great-house-dres) (**REVAMP NEEDED**)
 
 You may be subject to them, so it is important to know why, and how your toon may be getting in trouble; and what you can do to refute it.
