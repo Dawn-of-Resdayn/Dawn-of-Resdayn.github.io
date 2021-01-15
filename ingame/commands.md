@@ -37,11 +37,3 @@ These are a list of commands added by scripts that are available for the player 
 * ``/skills <player id:integer:optional>`` - Open a menu that shows you all of your or someone else's skills and their levels.
 * ``/levelskill <skill:string> <points:number>`` - Level up that specific skill with your allocated points.
 * ``/level`` - View your current overall level. This is basically how tough you are, the starting level is 8.
-
-**Moderation and DM Commands**
-
-* ``/resetskill <player id:number>`` - Reset a player's skill point allocation.
-* ``/addpoints <player id:number> <amount:number>`` - Give a player more points that they can allocate.
-* ``/setpoints <player id:number> <amount:number>`` - Set a player's max points they can allocate, this will not reset a player's points allocation!
-* ``/setrpr <player id:number> <amount:number>`` - Set a player's RPR.
-* ``/sethp <player id:number> <amount:number>`` - Set a player's HP. This doesn't affect the actual in game HP, but the HP used in rolls.

@@ -40,6 +40,14 @@ The DMs will not open the logs, nor read or share your roleplay. However, you ar
 
 Creepy or predatory players that stretch OOC boundaries will and can be removed without warning and permanently banned- with possible further action.
 
+## DM Policy on Slavery
+Slavery is a definite RP mechanic at Dawn of Resdayn, however, a player must consent to slavery OOC. Otherwise, more other fitting punishments must be offered to the player character. Under no circumstances are player characters allowed to be enslaved without their permission, however, players can start as slaves and with DM assistance may be placed in other suitable starting areas, such as telvanni slave pens, or the slave trade building in Geth.
+
+It is also a right to the player character to decide who they wish to be owned by. If they do not wish to be owned by you, or the existing owner any longer, you must respect their wishes. This does not mean freedom for the player character, but this means a smooth transition of owners. They may also be slaved to the city itself, such as Geth, until they find another suitable owner for the player character.
+
+Before purchasing a player character as your slave in RP, do ask for their consent in private messages or LOOC.
+Under no circumstances shall anything be forced upon the player character, that the player OOC, deems uncomfortable or may be deemed as an infraction of the server rules.
+
 ## Need help?
 Please refer to our [guide](https://dor.winterfang.com/guides/installing.html) section, if you need any help for installations or anything game-wise such as commands, or functionality of our scripts.
 
