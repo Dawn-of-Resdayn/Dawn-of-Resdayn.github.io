@@ -75,6 +75,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/project/intro.md',
+            '/project/rules.md',
             '/project/about.md',
             '/project/credits.md',
             '/project/updates.md',
