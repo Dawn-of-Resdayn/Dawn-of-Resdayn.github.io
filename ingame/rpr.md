@@ -50,6 +50,7 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 **Major Award** - 5%
 * Greater Lich (bound to phylactery, after phylactery is destroyed, they become killable) **!**
 * Ash Vampire **!**
+* Sload **!**
 * Saint in the Tribunal **!**
 * Surviving Dwemer **!**
 * Immortalize your PC into an NPC for any next upcoming updates.
