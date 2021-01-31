@@ -79,6 +79,7 @@ module.exports = {
             '/project/about.md',
             '/project/credits.md',
             '/project/updates.md',
+            '/project/privacy.md',
           ]
         },
         {
