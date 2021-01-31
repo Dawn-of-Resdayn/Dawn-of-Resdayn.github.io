@@ -1,7 +1,5 @@
 # Rules
 
-
-
 ## In-game Rules
 1. No Metagaming.
 2. No Powergaming, (e.g: Omniscience, Godmodding, Auto Hitting, SpeedRP, Ignoring Others )
