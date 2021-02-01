@@ -40,6 +40,7 @@ You may use higher-ranking awards for less valued ones. (e.g: Using a Major Awar
 * Dremora **!**
 * Skeleton
 * Nobility (for your character to be a distinguished noble)
+* Vampire
 * Scamp
 
 **Greater Award** - 35%
