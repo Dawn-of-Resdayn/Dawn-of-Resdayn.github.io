@@ -1,5 +1,5 @@
 # Rolls
-We use a custom roll system tailored toward roleplay instead of a "random" or "mechanical" roll system. Our roll system relies on skill set by the player on a per character basis, instead of relying on character skills built into the game. This is to avoid people grinding to get their skills to high level just so they can "roll" other players whom are trying to have a good RP experience.\
+We use a custom roll system tailored towards roleplay instead of a "random" or "mechanical" roll system. Our roll system relies on skill set by the player on a per character basis, instead of relying on character skills built into the game. This is to avoid people grinding to get their skills to high level just so they can "roll" other players whom are trying to have a good RP experience.\
 Our rolling system is kind of similar to D&D rolls, as in it's a ``d20`` based die with bonuses based on your skill level and critical hits. So, if you have played D&D before this system mechanic's will probably seem slightly familiar to you.\
 Any further questions you have about the rolling system, please feel free to ask on our Discord.
 
