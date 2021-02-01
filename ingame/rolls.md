@@ -51,7 +51,17 @@ endurance - This will affect your RP Health.
 ```
 
 ## Combat
+Combat rolling will be similar to how combat is in D&D, aka a turn based combat. To decide who goes first in a combat setting, everyone has to roll a d20 for initiative ``/roll d20``. Whoever gets the highest roll gets to make the first attack.
+
 When dealing with RP based combat you have to roll one of the combat skills. It is up to you to keep track of your RP health. We're trusting our players not to lie about their RP health, but keep in mind **anyone** can view your skills and your RP health so lying will result DMs getting involved.
+
+#### Example Combat
+There's two players, _player 1_ and _player 2_. Both players roll a d20 for initiative ``/roll d20``.
+```
+Player 1 rolls a 3
+Player 2 rolls a 15
+```
+_Player 2_ in that scenario gets to roll first, and _player 1_ gets to roll second.
 
 #### Criticals
 Each combat roll has a ``5%`` static chance of getting a critical. Getting a critical will result in a ``+3`` to your combat roll. Below is a list of skills that can be affected by critical hits.
