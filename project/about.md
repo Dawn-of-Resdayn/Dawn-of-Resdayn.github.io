@@ -3,10 +3,10 @@
 ## Server Staff
 | Name | Discord Name | Role |
 | ---- | ------------ | ---- |
-| Gryphoth | `Gryphoth#2366` | DM Team (Head) |
-| Dystopia | `2cwldys#4181` | DM Team (Head) |
+| DM Gryphoth | `Gryphoth#2366` | DM Team (Head) |
+| DM Dystopia | `2cwldys#4181` | DM Team (Head) |
 | Wishbone | `wishbone#5215` | Hosting & Technical Support |
-| Aarsyn | `Aarsyn#4730` | Support |
+| DM Arbiter | `Bongo#5758` | DM Team (Standard) |
 
 ## Development Staff
 | Name | Discord Name | Role |
