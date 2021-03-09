@@ -6,7 +6,7 @@ This guide was created under the assumption that you're running Windows, but oth
 If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
 :::
 
-* [Tamriel Rebuilt v20.02](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
+* [Tamriel Rebuilt v21.01](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
 * [Tamriel_Data v8.0](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
 * [Skyrim HOTN v21.01](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
 * [Cyrodiil_Main v0.2](https://www.nexusmods.com/morrowind/mods/44922?tab=files)
