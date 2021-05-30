@@ -2,16 +2,12 @@
 This guide was created under the assumption that you're running Windows, but other OSes that is supported by Morrowind should be a similar install. If you require extra help with the install then feel free to create a ticket on our [Discord](https://discord.gg/XG8r27R) and we'll help you when we can.
 
 ## Mod List
-::: tip
-If you already have Dawn of Resdayn 0.61 you can download [this](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing) instead which will be a much smaller download.
-:::
 
 * [Tamriel Rebuilt v21.01](https://www.tamriel-rebuilt.org/downloads/main-release)
 * [Tamriel Rebuilt - Hotfix](https://drive.google.com/file/d/1cgWUp0UPgyO1emamxl5M85bhHzcfTj65/view)
 * [Tamriel_Data v8.0](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
 * [Skyrim HOTN v21.01](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
 * [Cyrodiil_Main v0.3](https://www.nexusmods.com/morrowind/mods/44922?tab=files)
-* [Dawn of Resdayn 0.72](https://drive.google.com/file/d/14mfgygjlY8WhGI3rtYZyOeo8_FaYSRJF/view?usp=sharing)
 
 ## Step by Step
 ::: warning
@@ -23,8 +19,6 @@ Before continuing you **need** to install TES3MP. You can follow this [guide](ht
 2. Run the ``openmw-wizard``, and point it at your Morrowind.esm, this will be in your data files folder in your morrowind installation. Ensure your installation has all three base game files, Morrowind, including  Bloodmoon, and Tribunal DLCs.
 
 3. Navigate to ``C:\Users\USERNAME\Documents\My Games\OpenMW`` (USERNAME being your Window's username) and create a folder there named ``Mods`` This is where you will install the mods for the server. Later we'll tell openmw how to check these folders
-
-   * Create a folder called ``Dawn of Resdayn`` in the ``Mods`` folder you created, extract the Dawn of resdayn 0.72 zip into it.
 
    * Create a folder called ``Tamriel Data`` in the ``Mods`` folder you created, extract the contents of the Tamriel_Data (HD or vanilla) ZIP into it.
 
@@ -69,7 +63,6 @@ data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Data\Data Files"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Tamriel Rebuilt"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Province Cyrodiil\Data Files"
 data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\SHoTN"
-data="C:\Users\USERNAME\Documents\My Games\OpenMW\Mods\Dawn of Resdayn"
 ```
 if you see any entries like ``data=data`` or ``data-local=”?userdata?data”``, remove them. These seem to break things.
 
@@ -92,10 +85,11 @@ TR_Mainland_2101_hotfix.ESP
 TR_Factions.esp
 TR_Preview.esp
 TR_Travels_(Preview_And_Mainland).esp
-dawn_of_resdayn_v0.72.ESP
 ```
 
 Good luck, and remember to read the rules!
 
 ## Old Links
 * [Dawn of Resdayn 0.61](https://drive.google.com/file/d/1Kz3M9udayXR4H9Ba2azbGPhmax5ZFRgT/view?usp=sharing)
+* [Dawn of Resdayn 0.72](https://drive.google.com/file/d/14mfgygjlY8WhGI3rtYZyOeo8_FaYSRJF/view?usp=sharing)
+* [Dawn of Resdayn 0.61 to 0.72 Update Package](https://drive.google.com/file/d/1vqRHr6yFNx3RgtPos335BvYXr--Gy99l/view?usp=sharing)
