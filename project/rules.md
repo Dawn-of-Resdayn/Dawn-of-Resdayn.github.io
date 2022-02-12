@@ -7,8 +7,8 @@
 4. No advertising.
 5. No drama.
 6. No stealing without RP, and no house and thieves guild heists without DM approval or supervision.
-7. No Mechanical PVP, please use the combat rolls system.
-8. Play to Lose (P2L) (e.g: Being successfully arrested, defeated in combat, fearRP)
+7. No Mechanical PVP unless agreed upon by both parties, please use the combat rolls system.
+8. Play to Lose is encouraged (P2L) (e.g: Do not attempt to evade arrest past 1 roll, defeated in combat, fearRP)
 9. Masked and nicknamed users are disguised and incognito.
 10. Use sufficient roleplaying names. No celebrities, or offensive racial slurs.
 11. No random deathmatch (RPK/RDM)
@@ -18,15 +18,14 @@
 15. Respect your DMs and server staff. Be patient in regards to them.
 16. Do not abuse NPC merchants, such as the creeper or mudcrab merchant.
 17. No account sharing or dual-boxing without DM permission.
-18. If you have multiple users from the same IP, please contact server management.
-19. Read up on DM policy in regards to [18+ Activities](https://dor.winterfang.com/project/intro.html#dm-policy-on-erotic-roleplay-and-other-18-activities).
-20. Limit your bunnyhopping, when around other active player characters.
-21. You are allowed only **Three** player characters in the roleplaying world. Pick and plan wisely.
-22. Ban evasion is prohibited.
-23. No exploitation of known TES3MP bugs. Report them to David Cernat via [Github Issues](https://github.com/TES3MP/openmw-tes3mp/issues).
-24. Nuisances and refusal to roleplay is prohibited. Please join with the intent to roleplay with your fellow players.
-25. Do not impersonate server staff.
-26. Player characters that wish to hold invaluable positions within factions, or own housing and estates, must verify their concept on the [forum](https://resdayn.boards.net/board/4/player-characters). All toons made through the [Epic Sacrifice](https://dor.winterfang.com/ingame/rpr.html#epic-sacrifice) process must verify their concept on the forum. Characters made simply for the purpose of adventuring, tavern sitting, and whatnot- do not have to go through the verification process.
+18. Read up on DM policy in regards to [18+ Activities](https://dor.winterfang.com/project/intro.html#dm-policy-on-erotic-roleplay-and-other-18-activities).
+19. Limit your bunnyhopping, when around other active player characters.
+20. You are allowed only **Three** player characters in the roleplaying world. Pick and plan wisely.
+21. Ban evasion is prohibited.
+22. No exploitation of known TES3MP bugs. Report them to David Cernat via [Github Issues](https://github.com/TES3MP/openmw-tes3mp/issues).
+23. Roleplay is required.
+24. Do not impersonate server staff.
+25. Player characters that wish to hold invaluable positions within factions, or own housing and estates, must verify their concept on the [forum](https://resdayn.boards.net/board/4/player-characters). All toons made through the [Epic Sacrifice](https://dor.winterfang.com/ingame/rpr.html#epic-sacrifice) process must verify their concept on the forum. Characters made simply for the purpose of adventuring, tavern sitting, and whatnot- do not have to go through the verification process.
 
 ## Disclaimers
 [Account and privacy disclaimers.](https://dor.winterfang.com/project/privacy.html)
