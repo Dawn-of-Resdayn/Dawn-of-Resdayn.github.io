@@ -31,9 +31,9 @@
 [Account and privacy disclaimers.](https://dor.winterfang.com/project/privacy.html)
 
 ## In-game "rules" and laws
-It is highly suggested and recommended you go through and read our in-game imperial laws, and their subsidies here:
-* [Imperial Law](https://resdayn.boards.net/thread/6/imperial-law)
-* [House Indoril/Temple Law](https://resdayn.boards.net/thread/71/provincial-temple-laws)
+This section needs revamping, but can still be applicable in game.
+* [Imperial Law](https://resdayn.boards.net/thread/6/imperial-law) (**REVAMP NEEDED**)
+* [House Indoril/Temple Law](https://resdayn.boards.net/thread/71/provincial-temple-laws) (**REVAMP NEEDED**)
 * [House Dres Laws](https://resdayn.boards.net/thread/292/laws-great-house-dres) (**REVAMP NEEDED**)
 
 You may be subject to them, so it is important to know why, and how your toon may be getting in trouble; and what you can do to refute it.
