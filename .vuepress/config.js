@@ -93,7 +93,7 @@ module.exports = {
         },
         {
           title: 'In-Game',
-          collapsable: true,
+          collapsable: false,
           children: [
             '/ingame/commands.md',
             '/ingame/rolls.md',
